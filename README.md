@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1>Sorteador de Nomes em C</h1>
+    <h1>Conversor de Bases</h1>
     <p>Este é um simples programa em C que fornece 2 opções de conversão - Decimal para uma Base à escolha do Usuário ou Base à escolha do Usuário para Decimal</p>
     <h2>Instruções</h2>
     <ol>
